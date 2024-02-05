@@ -24,3 +24,14 @@ data modify storage fth:utils match set value "some string"
 execute if function feintha:utils/string/streq_execute run say "Matches!"
 
 ```
+TODO:
+- String exists in substring
+- Substring
+- Concatenation
+- Regex
+- Append
+- Prepend
+- Insert
+- Array -> String
+- Word matching
+- Split by character
