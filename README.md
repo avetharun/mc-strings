@@ -12,4 +12,12 @@ data modify storage fth:utils input set value "some string"
 function feintha:utils/string/streq {match:"some other string"}
 # returns 1:
 function feintha:utils/string/streq {match:"some string"}
+
+data modify storage fth:utils match set value "some other string"
+# Won't say anything:
+execute if function feintha:utils/string/streq_execute run say "Matches!"
+data modify storage fth:utils match set value "some string"
+# Will say "Matches!" in chat
+execute if function feintha:utils/string/streq_execute run say "Matches!"
+
 ```
