@@ -1,0 +1,1 @@
+$function feintha:utils/array/push_front {type:storage,namespace:fth,container:utils,location:arg_stack,value:$(value)}

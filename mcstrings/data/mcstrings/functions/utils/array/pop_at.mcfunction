@@ -1,0 +1,1 @@
+$data remove $(type) $(namespace):$(container) $(location)[$(index)]

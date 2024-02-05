@@ -1,0 +1,1 @@
+$function mcstrings:utils/array/pop_at {type:$(type),namespace:$(namespace),container:$(container),location:$(location),value:$(value),index:0}

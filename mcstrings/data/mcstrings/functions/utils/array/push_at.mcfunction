@@ -1,0 +1,1 @@
+$data modify $(type) $(namespace):$(container) $(location) insert $(index) value $(value)

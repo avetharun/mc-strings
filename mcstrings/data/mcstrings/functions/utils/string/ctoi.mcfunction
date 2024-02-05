@@ -1,0 +1,1 @@
+$return run data get storage mcs:ascii_map ctoi.$(input)

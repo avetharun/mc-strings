@@ -1,0 +1,1 @@
+$data get $(type) $(namespace):$(container) $(location)[0]

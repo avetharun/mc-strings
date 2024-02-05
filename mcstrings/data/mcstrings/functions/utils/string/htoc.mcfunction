@@ -1,0 +1,2 @@
+$execute store result storage fth:tmp htoc_intermediary.input int 1 run function mcstrings:utils/string/htoi {input:$(input)}
+return run function mcstrings:utils/string/itoc with storage fth:tmp htoc_intermediary

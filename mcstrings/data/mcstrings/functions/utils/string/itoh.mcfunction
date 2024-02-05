@@ -1,0 +1,1 @@
+$data modify storage mcs:utils.string itoh set from storage mcs:ascii_map itoh.$(input)
