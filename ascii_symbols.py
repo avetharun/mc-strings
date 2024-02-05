@@ -1,3 +1,5 @@
+# Generates ascii symbols for given inputs (By default, alphanumeric and symbols)
+
 if __name__ == "__main__":
     ascii_map = {
         "!": 33, "\"": 34, "#": 35, "$": 36, "%": 37, "&": 38, "'": 39, "(": 40, ")": 41, "*": 42,
