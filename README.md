@@ -29,8 +29,6 @@ TODO:
 - Substring
 - Concatenation
 - Regex
-- Append
-- Prepend
 - Insert
 - Array -> String
 - Word matching
